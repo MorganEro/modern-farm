@@ -1,4 +1,4 @@
-import { addPlant } from "./fields.js"
+import { addPlant } from "./field.js"
 import { createPotato } from "./seeds/potato.js"
 import { createAsparagus } from "./seeds/asparagus.js"
 import { createCorn } from "./seeds/corn.js"

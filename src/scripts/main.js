@@ -8,8 +8,8 @@ const yearlyPlan =  createPlan()
 
 import { createAsparagus } from "./seeds/asparagus.js"
 import { createCorn } from "./seeds/corn.js"
-import { addPlant } from "./fields.js"
-import { usePlants } from "./fields.js"
+import { addPlant } from "./field.js"
+import { usePlants } from "./field.js"
 import { plantSeeds } from "./tractor.js"
 import { harvestPlants } from "./harvester.js"
 import { catalog } from "./catalog.js"
